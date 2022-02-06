@@ -259,9 +259,10 @@ def display_movies_main_page(target_movie, n_submit, user_search):
             raise PreventUpdate
         
 if __name__ == '__main__':
-    app.run_server(debug_True)
+    app.run_server(debug=True)
     
         
 # Lancement de l'application sur mon serveur local
-#Code to run app in jupyter lab
+# Code to run app in jupyter lab
+# app.run_server(mode='external',port=7098 ,debug=True)  
 #app.run_server(mode='external',port=7098 ,debug=True)   
