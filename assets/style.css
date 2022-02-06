@@ -1,0 +1,54 @@
+@font-face {
+    font-family: "Chalkduster";
+    src: url("fonts/Chalkduster.ttf") format("truetype");
+}
+
+body {
+	
+	background-color: #162137;
+    font-family: "Chalkduster";
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    color: #f6c600;
+}
+
+
+.moviebox {
+    margin: auto;
+    margin-bottom: 60px;
+}    
+
+.moviecard {
+    position: relative;
+    width: 160px;
+    height: 230px; 
+    margin: 5px;
+}
+
+.movieposter {
+    width: 160px;
+    height: 230px; 
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.moviebox .moviecard {
+  position: relative;
+  padding: 0 2px;
+  transition: 250ms all;
+}
+
+.moviebox .moviecard:hover {
+  transform: scale(1.2);
+  z-index: 100;
+}
+
+h5 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
