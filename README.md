@@ -11,7 +11,7 @@ european niche (cf. video below). It builds on the K-Nearest Neightbours algorit
 This work is a group project led at Wild Code School (Oct-Nov 2021).
 
 
-Scope of recommendation movie
+## Scope of recommendation movie
 
 https://user-images.githubusercontent.com/90218739/152666859-51c6027e-f352-459b-a367-6c2099879354.mp4
 
