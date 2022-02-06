@@ -10,6 +10,10 @@ european niche (cf. video below). It builds on the K-Nearest Neightbours algorit
 
 This work is a group project led at Wild Code School (Oct-Nov 2021).
 
+## Example of a visualization comparing european movies to the rest of the world
+
+![Capture d’écran 2022-Rep_pprod](https://user-images.githubusercontent.com/90218739/152669393-3732db15-1cd7-4c87-be62-cb9ed2595a60.png)
+
 
 ## Scope of recommendation movie
 
