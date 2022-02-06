@@ -1,4 +1,8 @@
-# movie-recommendations
+# Movie recommendation Platform
+
+https://user-images.githubusercontent.com/90218739/152666859-51c6027e-f352-459b-a367-6c2099879354.mp4
+
+
 
 Analysis of movie data and movie recommendations based on the IMDb database.
 
